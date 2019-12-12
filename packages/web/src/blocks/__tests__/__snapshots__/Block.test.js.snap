@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`blocks/Block should render 1`] = `
+.emotion-0 {
+  color: blue;
+}
+
+<div
+  className="emotion-0 emotion-1"
+/>
+`;
